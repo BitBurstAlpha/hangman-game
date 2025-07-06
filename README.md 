@@ -1,5 +1,27 @@
 # Hangman Game
 
-A simple command-line **Hangman game** built in Python. Test your guessing skills while having fun with ASCII art animations!
+A classic word-guessing game implemented in Python for the command line.
 
 ---
+
+## What is Hangman?
+
+**Hangman** is a traditional game where a player tries to guess a hidden word by suggesting letters one at a time.
+For every incorrect guess, a part of a stick-figure "hangman" is drawn.
+The player wins by guessing the full word before the drawing is completed — or loses when all parts are drawn.
+
+---
+
+## About This Project
+
+This is a simple command-line version of Hangman created using Python. It includes:
+
+- Random word selection
+- 6 lives per game
+- ASCII art representation of the hangman stages
+- User input handling and repeated guess tracking
+- Beginner-friendly, modular code
+
+---
+
+
